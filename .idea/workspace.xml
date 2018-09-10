@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48c6957b-362b-4344-9103-9713adf56814" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigbear866_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigbear866_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigbear866_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigkoala328_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigkoala328_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigkoala328_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigladybug498_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigladybug498_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bigladybug498_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/biglion303_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/biglion303_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/biglion303_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackdog881_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackdog881_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackdog881_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackgorilla589_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackgorilla589_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackgorilla589_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackpanda974_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackpanda974_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blackpanda974_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluebear73_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluebear73_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluebear73_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluebutterfly167_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluebutterfly167_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluebutterfly167_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blueelephant847_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blueelephant847_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/blueelephant847_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluesnake414_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluesnake414_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bluesnake414_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/browndog574_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/browndog574_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/browndog574_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazygorilla163_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazygorilla163_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazygorilla163_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazypanda94_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazypanda94_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazypanda94_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazypeacock512_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazypeacock512_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazypeacock512_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazytiger134_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazytiger134_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/crazytiger134_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/goldenkoala804_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/goldenkoala804_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/goldenkoala804_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/greenelephant690_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/greenelephant690_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/greenelephant690_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/heavygoose106_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/heavygoose106_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/heavygoose106_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lazymeercat254_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lazymeercat254_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lazymeercat254_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/purpleswan777_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/purpleswan777_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/purpleswan777_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/redfrog150_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/redfrog150_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/redfrog150_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silverdog296_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silverdog296_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silverdog296_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silverfish61_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silverfish61_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silverfish61_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silvertiger605_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silvertiger605_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silvertiger605_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smallsnake403_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smallsnake403_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smallsnake403_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tinyduck707_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tinyduck707_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tinyduck707_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/whitedog307_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/whitedog307_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/whitedog307_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/whiteduck952_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/whiteduck952_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/whiteduck952_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yellowgorilla642_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yellowgorilla642_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/yellowgorilla642_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/username.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/bigbear866.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/bigkoala328.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/bigladybug498.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/biglion303.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/blackdog881.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/blackgorilla589.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/bluebear73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/bluebutterfly167.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/blueelephant847.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/bluesnake414.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/browndog574.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/crazygorilla163.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/crazypanda94.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/crazypeacock512.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/crazytiger134.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/goldenkoala804.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/greenelephant690.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/heavygoose106.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/lazymeercat254.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/purpleswan777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/redfrog150.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/silverdog296.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/silverfish61.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/silvertiger605.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/smallsnake403.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/tinyduck707.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/whitedog307.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/whiteduck952.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/yellowgorilla642.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.jade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/user.hbs" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2006049125">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="hbs" value="3" />
+          <entry key="html" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="8" />
+          <entry key="json" value="6" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Handlebars/Mustache" value="3" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="6" />
+          <entry key="JavaScript" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="hbs" value="699" />
+          <entry key="js" value="2806" />
+          <entry key="json" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Handlebars/Mustache" value="699" />
+          <entry key="JSON" value="44" />
+          <entry key="JavaScript" value="2806" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/user.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1738">
+              <caret line="79" column="82" selection-start-line="79" selection-start-column="82" selection-end-line="79" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1100">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-44">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/username.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/users.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/views/index.hbs" />
+        <option value="$PROJECT_DIR$/views/user.hbs" />
+        <option value="$PROJECT_DIR$/helpers.js" />
+        <option value="$PROJECT_DIR$/username.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-51" />
+    <option name="y" value="-20" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="express-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="express-basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="express-basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="express-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kmitsev\Study\express-basic-surver\express-basic\users" />
+      <recent name="C:\Users\kmitsev\Study\express-basic-surver\express-basic\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48c6957b-362b-4344-9103-9713adf56814" name="Default Changelist" comment="" />
+      <created>1536138532177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536138532177</updated>
+      <workItem from="1536138533452" duration="5891000" />
+      <workItem from="1536301875374" duration="21001000" />
+      <workItem from="1536560197731" duration="2852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29744000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29718006" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="136" selection-start-line="136" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.11.4/core-modules/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="888" selection-start-line="888" selection-end-line="888" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1297">
+          <caret line="318" column="3" lean-forward="true" selection-start-line="318" selection-start-column="3" selection-end-line="318" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/user.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1738">
+          <caret line="79" column="82" selection-start-line="79" selection-start-column="82" selection-end-line="79" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bigbear866_lg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/bigbear866.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/silverfish61.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1100">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/username.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="51" column="49" lean-forward="true" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
